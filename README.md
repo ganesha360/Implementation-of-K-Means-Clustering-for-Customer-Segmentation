@@ -84,7 +84,7 @@ plt.title("Customer Segmets")
 ![ML3](https://github.com/ganesha360/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120884552/f02d1962-8684-4142-8e27-50f16d9b703e)
 
 ## Elbow method:
-![ML4](https://github.com/ganesha360/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120884552/94178cd2-471c-4189-84a5-325ba4e547a6)
+![ML4](https://github.com/ganesha360/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120884552/34659507-5ab7-416c-a993-d368d1d512b7)
 
 ## K-Means:
 ![ML5](https://github.com/ganesha360/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120884552/7066262e-c185-4725-b7f7-da80365c0f36)
